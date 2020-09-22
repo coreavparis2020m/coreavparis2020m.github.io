@@ -1,0 +1,110 @@
+{
+  "configVersion": 1,
+  "timestamp": 1600803071159,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/es2015-polyfills.b62a0c6b168f504c432e.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.e4d4ea9dc60004064593.js",
+        "/polyfills.8bbb231b43165d65d357.js",
+        "/runtime.26209474bfa8dc87a77c.js",
+        "/styles.ad2bd9bf74ff44bedc13.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/hoyo1.png",
+        "/assets/hoyo10.png",
+        "/assets/hoyo11.png",
+        "/assets/hoyo12.png",
+        "/assets/hoyo13.png",
+        "/assets/hoyo14.png",
+        "/assets/hoyo15.png",
+        "/assets/hoyo16.png",
+        "/assets/hoyo17.png",
+        "/assets/hoyo18.png",
+        "/assets/hoyo2.png",
+        "/assets/hoyo3.png",
+        "/assets/hoyo4.png",
+        "/assets/hoyo5.png",
+        "/assets/hoyo6.png",
+        "/assets/hoyo7.png",
+        "/assets/hoyo8.png",
+        "/assets/hoyo9.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/hoyo1.png": "867dec917283dacc7127d674f414109dd60e0f67",
+    "/assets/hoyo10.png": "893dbf9822a0d54ae8197956f8cec626336d9fc6",
+    "/assets/hoyo11.png": "9dde41e882d31b92d3180213144084d0137aa917",
+    "/assets/hoyo12.png": "1f5b8ef9afe8e8eb3b4e37e5978cf71360dfea86",
+    "/assets/hoyo13.png": "1e32d9cb4242e8846c7f6f87fcd6350a5612d86a",
+    "/assets/hoyo14.png": "c35706a469d8a8b44a7cfcf81f0b60bd86080eb1",
+    "/assets/hoyo15.png": "4833d4b3059f8a2a8de418e52e3cb5a69e492f94",
+    "/assets/hoyo16.png": "9359f427a2b7879e8af70722e5b58d1d9fb937a9",
+    "/assets/hoyo17.png": "5bed4bd76960757da3b6f7765dc08f47884a069c",
+    "/assets/hoyo18.png": "344ecf6d2d85d381a71d83f3000ec87e234b7ea8",
+    "/assets/hoyo2.png": "52525ef6f35785f80831c426cb858dc76c32128a",
+    "/assets/hoyo3.png": "ddb062e409a29c1be18fec6df95d52678b3ca3c8",
+    "/assets/hoyo4.png": "b9cc1fb44ab6f18ba9201412cea8e09ce0846b9f",
+    "/assets/hoyo5.png": "0d636a6da640762af532cf764aca98aac9ba39cb",
+    "/assets/hoyo6.png": "998184bd89a303fd5b909067c59b0e45072c3793",
+    "/assets/hoyo7.png": "c06624663a89bbf6238d9e24bfaa5ce29049d5de",
+    "/assets/hoyo8.png": "e456a831d545847f4dbbc4fa29ffafa0dc112ddd",
+    "/assets/hoyo9.png": "23f2587164299c7ac75ff4997282de0c68676a5b",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/es2015-polyfills.b62a0c6b168f504c432e.js": "93f7f20f8021daed65e169e735213e2c0bed4ab7",
+    "/favicon.ico": "a8efe8928130a12a0a86ceaa774ed00184f5f1a0",
+    "/index.html": "440d5616a2f048873d5f3298a5736a4ff6fc2080",
+    "/main.e4d4ea9dc60004064593.js": "66286182e0d1ed8a59189a8e342488134e706790",
+    "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.ad2bd9bf74ff44bedc13.css": "589869893f146268e774fa6a0342481fc3093dd4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
